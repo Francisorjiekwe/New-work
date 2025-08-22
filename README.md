@@ -1,55 +1,45 @@
-<h1>Sales Report Correlation 2025 Dashboard</h1>
+<h1>Hi, I'm Francis Orjiekwe! <br/>
+  <a href="https://github.com/Francisorjiekwe">Data Analyst</a> | <a href="https://www.youtube.com/@Softvision_Communication">YouTuber</a> | <a href="https://www.linkedin.com/in/francisorjiekwe/">Digital Marketer</a></h1></h1>
 
-### [Interactive Dashboard Walkthrough – YouTube](https://www.youtube.com/@Softvision_Communication)
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
-<h2>Description</h2>
-This project demonstrates my ability as a <b>Data Analyst</b> to design and deploy a <b>dynamic sales performance dashboard</b>. Using Microsoft Excel and Power Query, I created an automated reporting system that provides stakeholders with actionable insights on revenue trends, product performance, and regional sales distribution.  
+- <b>Sales Report Correlation 2025 Dashboard</b>  
+  - [Interactive Excel Dashboard with Power Query & PivotTables](https://github.com/Francisorjiekwe/Sales-Report-Correlation-2025)  
+- <b>Inventory Management System</b>  
+  - [Automated Excel Tool for Stock Tracking](https://github.com/Francisorjiekwe/Excel-Inventory-Manager)  
+- <b>SQL Practice Portfolio</b>  
+  - [Database Queries and Business Insights](https://github.com/Francisorjiekwe/SQL-Projects)  
+- <b>Power BI Dashboard</b>  
+  - [Visualizing Business KPIs & Regional Performance](https://github.com/Francisorjiekwe/PowerBI-Dashboards)  
+- <b>School Management System (Excel-based)</b>  
+  - [Custom Interactive Tool for Record Keeping](https://github.com/Francisorjiekwe/School-Management-Excel)  
 
-The dashboard allows users to:  
-- Track <b>Total Sales, Product Revenue, and Regional Contribution</b>  
-- Analyze <b>daily/weekly/monthly performance trends</b>  
-- Identify <b>top-performing and underperforming products</b>  
-- Correlate <b>sales drivers with business outcomes</b>  
+<h2>📺 Popular YouTube Videos</h2>
 
-The workflow was built with a focus on <b>data cleaning, transformation, and automation</b>, ensuring reports update seamlessly with new datasets.  
-<br />
+- [Excel Power Query for Beginners – Full Tutorial](https://www.youtube.com/@Softvision_Communication)  
+- [How to Build a Dynamic Dashboard in Excel](https://www.youtube.com/@Softvision_Communication)  
+- [Data Cleaning Techniques Every Analyst Must Know](https://www.youtube.com/@Softvision_Communication)  
+- [Getting Started with SQL for Data Analysis](https://www.youtube.com/@Softvision_Communication)  
 
-<h2>Languages and Utilities Used</h2>
+<h2> 🤳 Connect with me:</h2>
 
-- <b>Microsoft Excel</b> (Advanced Functions, PivotTables, Charts)  
-- <b>Power Query</b> (ETL – Extract, Transform, Load)  
-- <b>DAX</b> (Basic for data modeling & measures)  
+[<img align="left" alt="FrancisOrjiekwe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="FrancisOrjiekwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="FrancisOrjiekwe | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
-<h2>Environments Used </h2>
+[youtube]: https://www.youtube.com/@Softvision_Communication  
+[linkedin]: https://www.linkedin.com/in/francisorjiekwe/  
+[github]: https://github.com/Francisorjiekwe  
 
-- <b>Windows 10/11</b>  
-- <b>Excel 365</b>  
+<!--
+**Francisorjiekwe/Francisorjiekwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2>Program walk-through:</h2>
+Here are some ideas to get you started:
 
-<p align="center">
-Data Cleaning with Power Query: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Data Cleaning Steps"/>
-<br /><br />
-
-Building PivotTables and Relationships: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="PivotTable Steps"/>
-<br /><br />
-
-Automating Refresh for New Data: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Automation Steps"/>
-<br /><br />
-
-Final Dashboard – Key Insights: <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Dashboard Overview"/>
-<br /><br />
-</p>
-
----
-
-<p align="center">
-<b>Francis Orjiekwe | Data Analyst</b><br/>
-📍 Awka, Nigeria | 💼 Softvision Communication <br/>
-🔗 GitHub: <a href="https://github.com/Francisorjiekwe">github.com/Francisorjiekwe</a><br/>
-🔗 YouTube: <a href="https://www.youtube.com/@Softvision_Communication">@Softvision_Communication</a>
-</p>
+- 🔭 I’m currently working on data-driven business solutions  
+- 🌱 I’m currently learning advanced SQL and Power BI  
+- 👯 I’m looking to collaborate on Excel/BI dashboards and analytics projects  
+- 💬 Ask me about Excel automation, Power Query, and dashboards  
+- 📫 How to reach me: GitHub or LinkedIn  
+- ⚡ Fun fact: I enjoy combining business with analytics to simplify decision-making  
+-->
